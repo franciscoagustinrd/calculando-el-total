@@ -28,6 +28,6 @@ btnMenos.addEventListener("click", () => {
     numero = 0;
   }
 
-cantidad.innerHTML = numero;
+  cantidad.innerHTML = numero;
   total();
 });
